@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "37654456703",
+    "project_id": "chat-app-11406",
+    "storage_bucket": "chat-app-11406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37654456703:android:49b83257be565da65f524a",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37654456703-na2c0abkd9ojtcehpeuvmvbi24bgfloh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEHFY1LpDEC7VeG3f6kA_KTlwDMZ4SqLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37654456703-edfqejmc523kkcv40pq1kiqg8nk37tde.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37654456703-7fhqmri8ac6dumoffbti8n50q8rqnm0n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mapsGeolocator"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37654456703:android:019c4c0444a7e01f5f524a",
+        "android_client_info": {
+          "package_name": "com.example.maps_geolocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37654456703-na2c0abkd9ojtcehpeuvmvbi24bgfloh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEHFY1LpDEC7VeG3f6kA_KTlwDMZ4SqLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37654456703-edfqejmc523kkcv40pq1kiqg8nk37tde.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37654456703-7fhqmri8ac6dumoffbti8n50q8rqnm0n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mapsGeolocator"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37654456703:android:ae711368223fc2295f524a",
+        "android_client_info": {
+          "package_name": "com.example.we_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37654456703-na2c0abkd9ojtcehpeuvmvbi24bgfloh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEHFY1LpDEC7VeG3f6kA_KTlwDMZ4SqLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37654456703-edfqejmc523kkcv40pq1kiqg8nk37tde.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37654456703-7fhqmri8ac6dumoffbti8n50q8rqnm0n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mapsGeolocator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
